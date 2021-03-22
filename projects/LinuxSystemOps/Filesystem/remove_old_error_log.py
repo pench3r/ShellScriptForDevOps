@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:remove_old_error_log.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/10/30
 Create Time:            11:38
 Description:            python remove old logs with a given directory

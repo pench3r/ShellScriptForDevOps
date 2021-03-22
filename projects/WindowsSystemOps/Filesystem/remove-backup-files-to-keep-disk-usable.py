@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:remove-backup-files-to-keep-d
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/6/8
 Create Time:            11:40
 Description:            remote backup files to keep disk usable (Avail disk space usage > 5GB )

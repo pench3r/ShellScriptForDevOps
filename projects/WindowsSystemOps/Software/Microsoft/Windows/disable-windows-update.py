@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:disable-windows-update.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/12/30
 Create Time:            17:56
 Description:            disable Windows Update Service

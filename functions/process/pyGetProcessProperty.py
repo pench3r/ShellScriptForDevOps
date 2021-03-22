@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyGetProcessProperty.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/2/2
 Create Time:            14:45
 Description:            get process's property(Name\Pid\Cpu ...) using psutil with python

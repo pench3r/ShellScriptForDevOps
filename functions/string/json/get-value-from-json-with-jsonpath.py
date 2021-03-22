@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:get-value-from-json-with-json
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/11/1
 Create Time:            9:40
 Description:            use jsonpath to get wanted resource from json string object

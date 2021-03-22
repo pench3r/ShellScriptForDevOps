@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:tiny-script-for-argument-opti
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/8/22
 Create Time:            10:01
 Description:            an tiny example for argument options without getopt or docopt

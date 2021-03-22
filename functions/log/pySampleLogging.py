@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pySampleLogging.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/11/16
 Create Time:            14:21
 Description:            most sample logger function

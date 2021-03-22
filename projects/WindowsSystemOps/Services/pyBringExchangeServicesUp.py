@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyBringExchangeServicesUp.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/11/27
 Create Time:            19:16
 Description:            bring up Exchange 2010 service if detect the services down with Python

@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:tqdm-examples.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2021/3/10
 Create Time:            9:44
 Description:            progress bar

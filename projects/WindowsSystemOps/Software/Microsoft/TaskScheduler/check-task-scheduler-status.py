@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:check-task-scheduler-status.p
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/8/19
 Create Time:            10:59
 Description:            check task scheduler status

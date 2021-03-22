@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:WXBizMsgCrypt.py.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/9/19
 Create Time:            9:38
 Description:            

@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyStrToDatetime.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/4/8
 Create Time:            19:41
 Description:            convert string obj to datetime obj(learn from 'python-whois')

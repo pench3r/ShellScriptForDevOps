@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyRestartExchangeServices.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/11/29
 Create Time:            15:16
 Description:            restart Exchange 2010 services with Python

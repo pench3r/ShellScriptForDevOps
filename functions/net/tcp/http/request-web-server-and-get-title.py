@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:request-web-server-and-get-ti
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/05/26
 Create Time:            10:27
 Description:            request a web server and get title

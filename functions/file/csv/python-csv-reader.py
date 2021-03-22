@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:python-csv-reader.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/7/31
 Create Time:            10:21
 Description:            

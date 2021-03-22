@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyFTPServer.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/1/3
 Create Time:            14:16
 Description:            simple FTP Server entirely written in pure Python

@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:ping-nodes-with-thread-and-sa
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/1/19
 Create Time:            11:07
 Description:            ping nodes with multi-threading and save results into a file

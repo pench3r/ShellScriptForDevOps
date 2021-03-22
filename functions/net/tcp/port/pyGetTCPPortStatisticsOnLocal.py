@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyGetTCPPortStatisticsOnLocal
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/11/27
 Create Time:            14:30
 Description:            TCP connections statistics with Python

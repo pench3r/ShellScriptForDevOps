@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:pywin32-win32crypt-quick-exam
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/11/21
 Create Time:            16:01
 Description:            using win32crypt to encrypt string

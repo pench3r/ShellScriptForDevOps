@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyGetThreadRealPid.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/11/24
 Create Time:            11:54
 Description:            get real pid of thread in kernel layer

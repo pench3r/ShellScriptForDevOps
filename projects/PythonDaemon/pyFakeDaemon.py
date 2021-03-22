@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyFakeDaemon.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/11/17
 Create Time:            10:12
 Description:            a fake daemon can run in Linux or Windows for Test purpose written by Python

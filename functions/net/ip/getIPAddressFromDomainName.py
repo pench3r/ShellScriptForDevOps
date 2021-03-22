@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:getIPAddressFromDomainName.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/10/31
 Create Time:            11:13
 Description:            Python get IP address from domain name(URL)

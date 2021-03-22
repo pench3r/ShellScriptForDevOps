@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:insert-data-into-mysql.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/6/18
 Create Time:            10:38
 Description:            insert data into mysql

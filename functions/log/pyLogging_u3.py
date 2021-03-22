@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyLogging_u3.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/8/16
 Create Time:            11:55
 Description:            a simple logger class for python script use

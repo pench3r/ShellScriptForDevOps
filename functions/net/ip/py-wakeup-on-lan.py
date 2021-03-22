@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:py-wakeup-on-lan.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/10/23
 Create Time:            11:59
 Description:            wake on lan, WoL

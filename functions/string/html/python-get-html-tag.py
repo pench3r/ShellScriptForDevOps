@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:python-get-html-tag.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/5/28
 Create Time:            10:52
 Description:            using bs4 to get html tag

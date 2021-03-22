@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:unrar-a-file.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/2/22
 Create Time:            16:10
 Description:            python library for unrar/unzip/untar a file

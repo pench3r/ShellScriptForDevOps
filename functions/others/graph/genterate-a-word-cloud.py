@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:genterate-a-word-cloud.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/1/13
 Create Time:            9:38
 Description:            Generate a Word cloud(Tag Cloud)

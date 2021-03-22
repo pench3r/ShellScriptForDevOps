@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyServicesManagerBasedOnWMI.p
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/12/4
 Create Time:            12:51
 Description:            Python error tracking with Sentry, use Sentry to caught exception and trace errors

@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:getPublicIPAddress_requestsIm
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/1/9
 Create Time:            17:30
 Description:            python get public ip address by requests library through Internet network access

@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:pyExecuteSqlScriptFile.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/4/15
 Create Time:            13:38
 Description:            execute SQL statements in a script file (batch file)

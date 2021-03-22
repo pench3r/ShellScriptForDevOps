@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:watch-http-server-status.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/3/23
 Create Time:            12:14
 Description:            watcher for http web server, keep doing request until 'ok' is returned

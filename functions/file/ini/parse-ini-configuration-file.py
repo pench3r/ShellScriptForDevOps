@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:parse-ini-configuration-file.
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/4/28
 Create Time:            11:09
 Description:            python parse .ini, .cnf, .conf file

@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyFabricAndStrictCapistrano.p
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/3/9
 Create Time:            14:42
 Description:            python script for automatic deploy using Fabric and Strict Capistrano structure

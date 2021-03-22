@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:clean-iis-log-files.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/2/2
 Create Time:            9:12
 Description:            clean Microsoft IIS default logs

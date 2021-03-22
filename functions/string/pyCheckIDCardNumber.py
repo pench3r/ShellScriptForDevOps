@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyCheckIDCardNumber.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/5/3
 Create Time:            11:55
 Description:            中华人民共和国公民身份号码校验码计算方法, verify the validity of id card number

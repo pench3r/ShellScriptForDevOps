@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:get-charset-and-collation.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/4/13
 Create Time:            14:28
 Description:            get charset and collation of databases in the db instance

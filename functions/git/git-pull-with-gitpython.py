@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:git-pull-with-gitpython.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/11/1
 Create Time:            14:20
 Description:            update git repository with GitPython

@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:clean-old-backup-files-v2.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/3/3
 Create Time:            17:17
 Description:            clean old backup files, save backups for x days, y weeks and z months

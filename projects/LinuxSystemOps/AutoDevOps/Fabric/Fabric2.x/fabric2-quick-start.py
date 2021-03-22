@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:fabric2-quick-start.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/11/5
 Create Time:            15:54
 Description:            use Fabric 2 to execute SSH commands and transfer files

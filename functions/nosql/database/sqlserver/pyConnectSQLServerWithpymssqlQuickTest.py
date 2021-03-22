@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyConnectSQLServerWithpymssql
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/2/27
 Create Time:            11:10
 Description:            

@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:threading-example-using-threa
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/1/29
 Create Time:            16:48
 Description:            run some func in a multi-thread way using ThreadPool

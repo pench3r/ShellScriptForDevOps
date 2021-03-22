@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyRedisConnectivityQuickTest.
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/3/6
 Create Time:            16:45
 Description:            Python Redis Connectivity Quick Test

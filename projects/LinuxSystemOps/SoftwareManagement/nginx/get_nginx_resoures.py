@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:get_nginx_resoures.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/8/6
 Create Time:            13:57
 Description:            retrieve, fetch, find latest version of packages(Nginx/OpenSSL/PCRE/Zlib)'s URL

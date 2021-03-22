@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyGetSystemInformationWithWMI
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/12/5
 Create Time:            20:08
 Description:            get some system information by WMI with Python

@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyXMLParser2.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/7/27
 Create Time:            9:25
 Description:            an example of find tag or text in XML file with built modules

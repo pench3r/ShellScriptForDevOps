@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyLogging_u4.py.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/11/04
 Create Time:            10:35
 Description:            better logging support for large project

@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:py-tcp-port-binding-and-test-
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/9/5
 Create Time:            14:14
 Description:            python test listen on the TCP port(create a simple TCP Server)

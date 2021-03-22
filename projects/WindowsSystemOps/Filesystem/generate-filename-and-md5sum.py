@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:generate-filename-and-md5sum.
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/6/5
 Create Time:            10:51
 Description:            generate hash sum of file

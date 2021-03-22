@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:pyRedisCluterOps.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/11/14
 Create Time:            11:52
 Description:            Redis Cluster Client for Python

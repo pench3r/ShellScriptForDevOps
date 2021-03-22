@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:file-encoding-converter-and-c
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/6/10
 Create Time:            15:09
 Description:            convert file encoding utf-16 to utf-8 then zip it

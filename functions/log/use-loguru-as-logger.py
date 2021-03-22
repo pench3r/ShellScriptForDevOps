@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:use-loguru-as-logger.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/9/18
 Create Time:            11:37
 Description:            loguru is python3 module make logging simple

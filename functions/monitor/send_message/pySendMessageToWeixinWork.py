@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:pySendMessageToWeixinWork.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2021/3/5
 Create Time:            8:49
 Description:            send message to internal chat group of "WeiXin Work" App using OpenAPI

@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyThreadingWithOrderedReturn.
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/8/7
 Create Time:            10:02
 Description:            execute some tasks and return  result in order

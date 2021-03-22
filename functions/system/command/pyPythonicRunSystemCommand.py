@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyPythonicRunSystemCommand.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/1/24
 Create Time:            15:43
 Description:            simple and pythonic system command executor

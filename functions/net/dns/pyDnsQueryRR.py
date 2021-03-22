@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyDnsQueryRR.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/3/21
 Create Time:            11:11
 Description:            python query dns RR(Resource Records), such as A, NS, CNAME, MX, TXT, SRV, etc

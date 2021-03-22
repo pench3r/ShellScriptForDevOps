@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:sync-file-after-modified.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/3/7
 Create Time:            17:26
 Description:            sync files to share folder after modified on MS Windows

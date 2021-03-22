@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:compress-backup-files.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/2/21
 Create Time:            19:17
 Description:            compress backup file to rar or gz using multiprocessing to save disk space

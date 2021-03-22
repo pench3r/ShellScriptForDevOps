@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:python-control-outlook-emails
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/11/24
 Create Time:            15:35
 Description:            get mail message content from Microsoft Outlook

@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:python-set-service-attributes
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/1/30
 Create Time:            17:17
 Description:            

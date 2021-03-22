@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pySshPortScanner.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/11/21
 Create Time:            15:46
 Description:            scan ssh port with given IP address(Test Purpose Only)

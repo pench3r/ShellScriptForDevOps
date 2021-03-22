@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyTaobaoGeoIPOps.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/11/13
 Create Time:            16:26
 Description:            using Taobao IP Library to locate IP address

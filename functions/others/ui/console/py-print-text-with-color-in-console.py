@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:py-print-text-with-color-in-c
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/8/27
 Create Time:            10:11
 Description:            print text with color in console(such as ssh shell, Linux Terminal, Pycharm IDE)

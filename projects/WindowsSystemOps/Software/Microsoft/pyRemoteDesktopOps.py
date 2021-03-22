@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyRemoteDesktopOps.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/11/10
 Create Time:            17:48
 Description:            some remote desktop ops from Windows registry('regedit') using built-in module _winreg

@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:always-using-unicode.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/9/27
 Create Time:            18:49
 Description:            a function convert non-unicode object to unicode object if it is a basestring object

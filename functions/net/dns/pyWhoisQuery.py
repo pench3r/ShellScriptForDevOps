@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyWhoisQuery.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/4/8
 Create Time:            15:57
 Description:            python whois query

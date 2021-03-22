@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyRunSystemCommand.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/10/17
 Create Time:            10:14
 Description:            python run some command with option capture stdout or not

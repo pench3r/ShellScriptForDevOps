@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyRandomSort.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/12/26
 Create Time:            17:34
 Description:            random sort(shuffle) items in list

@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyGetLockScreenWallpaperOnWin
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/7/25
 Create Time:            11:38
 Description:            Get Lock Screen Wallpaper on Windows 10

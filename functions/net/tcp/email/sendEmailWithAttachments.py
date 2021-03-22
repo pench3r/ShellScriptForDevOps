@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:sendEmailWithAttachments.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/12/14
 Create Time:            11:56
 Description:            send email with some files as attachments by smtplib with Python

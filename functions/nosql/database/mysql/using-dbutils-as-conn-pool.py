@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:using-dbutils-as-conn-pool.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/7/3
 Create Time:            11:01
 Description:            Python implementation of database connection pool

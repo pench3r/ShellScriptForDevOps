@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:auto_detect_encoding.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/5/28
 Create Time:            15:33
 Description:            Detect the encoding of the given byte string.

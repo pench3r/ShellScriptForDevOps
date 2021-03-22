@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:py_remove_old_releases.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/11/22
 Create Time:            10:42
 Description:            remove old releases which deployed into multi-part places

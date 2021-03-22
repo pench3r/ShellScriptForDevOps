@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyCheckRemoteHostPortStatus.p
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/12/28
 Create Time:            10:19
 Description:            check remote host's tcp port if is open, U2

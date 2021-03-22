@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:query-dns-rr.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/7/28
 Create Time:            15:50
 Description:            query dns rr record

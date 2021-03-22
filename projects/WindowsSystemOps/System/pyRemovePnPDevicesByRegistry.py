@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyRemovePnPDevicesByRegistry.
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/1/14
 Create Time:            15:46
 Description:            remove all uPnP devices by operating Windows Registry

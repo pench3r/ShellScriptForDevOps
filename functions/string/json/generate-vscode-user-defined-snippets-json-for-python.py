@@ -11,7 +11,6 @@ File Name:              LinuxBashShellScriptForOps: .py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            $CURRENT_MONTH_NAME_SHORT/$CURRENT_DATE/$CURRENT_YEAR_SHORT
 Create Time:            $CURRENT_HOUR:$CURRENT_MINUTE
 Description:            

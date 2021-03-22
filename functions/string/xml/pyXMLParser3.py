@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyXMLParser3.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/7/27
 Create Time:            15:39
 Description:            find text with a XML file with namespace

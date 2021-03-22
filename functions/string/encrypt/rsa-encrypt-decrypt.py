@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:rsa-encrypt-decrypt.py
 Version:                0.0.2
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/11/16
 Create Time:            15:19
 Description:            using RSA to encrypt or decrypt AES or DES keys

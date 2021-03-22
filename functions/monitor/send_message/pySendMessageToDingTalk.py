@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:pySendMessageToDingTalk.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2021/3/5
 Create Time:            8:50
 Description:            send message to external or internal chat group of "DingTalk" App using OpenAPI

@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:ping.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/10/18
 Create Time:            11:35
 Description:            A pure python ping implementation using raw socket

@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pySshTransferFilesWithParamik
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/10/26
 Create Time:            17:02
 Description:            python transfer files with paramiko module over SSH protocol

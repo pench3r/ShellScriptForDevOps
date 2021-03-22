@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:bytes-to-human-to-bytes.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/7/9
 Create Time:            20:07
 Description:            bytes2human, human2bytes

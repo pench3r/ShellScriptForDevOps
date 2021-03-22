@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:backup-mysql-to-remote-over-s
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/3/13
 Create Time:            19:45
 Description:            backup entire MySQL database to remote host

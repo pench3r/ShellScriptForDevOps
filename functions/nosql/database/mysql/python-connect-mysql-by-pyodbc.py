@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:python-connect-mysql-by-pyodb
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/5/21
 Create Time:            9:56
 Description:            retrieve Chinese Character from MySQL database using pyodbc

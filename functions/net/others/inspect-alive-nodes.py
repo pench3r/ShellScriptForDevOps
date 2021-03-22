@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:inspect-alive-nodes.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/12/27
 Create Time:            17:27
 Description:            inspect if node is alive using icmp and tcp

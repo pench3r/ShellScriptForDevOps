@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:convert-chinese-to-pinyin.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2021/3/16
 Create Time:            14:30
 Description:            Convert Chinese characters to Pinyin

@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pySettingSSHTrust.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/9/27
 Create Time:            12:00
 Description:            Setting up SSH Trust Between Two Servers or Self Trust (local)

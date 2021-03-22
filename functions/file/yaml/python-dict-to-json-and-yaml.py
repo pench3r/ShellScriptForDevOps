@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:html-form-multilevel-drop-dow
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/12/18
 Create Time:            9:31
 Description:            create nested drop down menu of parent child data

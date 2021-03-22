@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyAESCrypt.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/1/8
 Create Time:            14:38
 Description:            using AES to encrypt or decrypt with a given password as AES key

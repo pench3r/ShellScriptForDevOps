@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:python-enable-disable-account
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/10/15
 Create Time:            16:37
 Description:            enable or disable account using pywin32

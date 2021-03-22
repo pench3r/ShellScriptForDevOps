@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:python-read-or-open-file.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/11/8
 Create Time:            11:36
 Description:            guess file encoding and get well encoded byte object

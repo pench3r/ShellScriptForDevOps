@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:python-dateutil-examples-01.p
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/4/3
 Create Time:            11:33
 Description:            Parse a string containing a date/time stamp in one of the supported formats
