@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyTimezoneConverter.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/6/7
 Create Time:            19:00

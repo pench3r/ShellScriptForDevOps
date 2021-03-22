@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyGetFileSize.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/11/24
 Create Time:            10:09

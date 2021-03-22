@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:shlex-quick-references.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/4/28
 Create Time:            11:26

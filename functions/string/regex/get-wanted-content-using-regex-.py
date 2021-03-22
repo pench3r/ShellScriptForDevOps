@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:get-content-type-01.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/11/5
 Create Time:            16:23

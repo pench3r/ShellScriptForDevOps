@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:python-get-resource-from-weix
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/6/5
 Create Time:            14:19

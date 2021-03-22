@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:clean-old-backup-files.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/2/17
 Create Time:            16:58

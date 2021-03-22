@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyOtherDateTimeLibs.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/12/21
 Create Time:            11:23

@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:create-a-task.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/2/2
 Create Time:            18:33

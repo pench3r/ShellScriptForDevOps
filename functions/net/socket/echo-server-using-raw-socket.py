@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:echo-server-using-raw-socket.
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/8/12
 Create Time:            15:22

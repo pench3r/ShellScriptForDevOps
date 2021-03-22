@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyResetOpenVPNServiceWhenNetw
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/1/31
 Create Time:            17:29

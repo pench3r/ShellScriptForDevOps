@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:read-winevt.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/3/30
 Create Time:            15:53

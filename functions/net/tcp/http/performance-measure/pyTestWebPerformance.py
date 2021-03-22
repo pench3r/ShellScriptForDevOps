@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyTestWebPerformance.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/3/13
 Create Time:            15:36

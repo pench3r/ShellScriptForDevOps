@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:counting-files.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/2/18
 Create Time:            12:17

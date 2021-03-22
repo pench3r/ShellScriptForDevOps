@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:py-ftps-client-prefered-1.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/1/7
 Create Time:            11:10

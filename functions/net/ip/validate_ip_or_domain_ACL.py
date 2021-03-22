@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:validate_ip_or_domain_ACL.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/5/16
 Create Time:            11:12

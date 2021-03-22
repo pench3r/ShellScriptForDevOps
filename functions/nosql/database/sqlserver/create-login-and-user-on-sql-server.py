@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:create-login-and-user-on-sql-
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/10/13
 Create Time:            17:08

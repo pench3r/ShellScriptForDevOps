@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:windows-user-accounts-manager
 Version:                0.0.4
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/10/27
 Create Time:            15:49

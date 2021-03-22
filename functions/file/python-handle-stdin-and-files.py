@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:python-handle-stdin-and-files
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/6/24
 Create Time:            10:23

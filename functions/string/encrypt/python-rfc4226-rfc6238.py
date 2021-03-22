@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:python-rfc4226-rfc6238.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/11/20
 Create Time:            14:55

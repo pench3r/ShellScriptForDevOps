@@ -5,7 +5,6 @@ File Name:              LinuxBashShellScriptForOps:ping-url-etc.py
 Version:                0.0.1
 Author:                 guodong
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/09/03
 Create Time:            10:57:19

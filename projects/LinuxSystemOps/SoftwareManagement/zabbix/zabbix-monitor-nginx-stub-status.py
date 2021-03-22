@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:zabbix-monitor-nginx-stub-sta
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/11/6
 Create Time:            20:39

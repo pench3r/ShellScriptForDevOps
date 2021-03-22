@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:check-port-connection-statist
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/5/21
 Create Time:            16:00

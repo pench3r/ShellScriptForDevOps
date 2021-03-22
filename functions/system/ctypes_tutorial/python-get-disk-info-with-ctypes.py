@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:python-get-disk-info-with-cty
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/3/15
 Create Time:            9:23

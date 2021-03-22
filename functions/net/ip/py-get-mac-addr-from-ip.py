@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:py-get-mac-addr-from-ip.py
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2018/10/23
 Create Time:            11:50

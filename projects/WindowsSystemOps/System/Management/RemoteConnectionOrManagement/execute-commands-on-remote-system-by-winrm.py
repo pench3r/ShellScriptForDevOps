@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:execute-commands-on-remote-sy
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2019/12/11
 Create Time:            9:01

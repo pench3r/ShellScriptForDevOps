@@ -6,7 +6,6 @@ File Name:              LinuxBashShellScriptForOps:get-time-from-ntp-server.py
 Version:                0.0.1
 Author:                 dgden
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2020/7/2
 Create Time:            10:52

@@ -17,7 +17,7 @@
 # 2016-04-28 18:04:27.151203523 +0800
 #
 # Author:
-# Open Source Software written by 'Guodong Ding <liuhongda@didiglobal.com>'
+# Open Source Software written by 'Liuhongda<liuhongda@didiglobal.com>'
 # Blog: http://dgd2010.blog.51cto.com/
 # Github: https://github.com/DingGuodong
 #

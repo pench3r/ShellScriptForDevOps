@@ -7,7 +7,6 @@ File Name:              LinuxBashShellScriptForOps:pyCheckRemoteHostPortStatus.p
 Version:                0.0.1
 Author:                 Liuhongda
 Author Email:           liuhongda@didiglobal.com
-URL:                    https://github.com/DingGuodong/LinuxBashShellScriptForOps
 Download URL:           https://github.com/DingGuodong/LinuxBashShellScriptForOps/tarball/master
 Create Date:            2017/12/28
 Create Time:            10:19
